@@ -1,2 +1,2 @@
-# Projetos-2
+# DevRadar
 Aplicação desenvolvida para encontrar desenvolvedores 
